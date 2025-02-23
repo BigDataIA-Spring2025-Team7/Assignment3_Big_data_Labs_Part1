@@ -43,8 +43,9 @@ This project demonstrates various techniques for working with Snowflake, Snowpar
 3. Set up your Snowflake environment (Warehouse, Database, etc.).
 
 Conclusion
-This project provides a comprehensive toolkit for building and managing data pipelines within Snowflake using Snowpark and Python. By leveraging features such as external data ingestion, automated task management, and CI/CD pipelines, users can streamline their data engineering workflows and enhance their Snowflake experience. Whether you are working on small-scale analysis or large-scale production deployments, this repository provides the resources to optimize and automate key data processes.
 ---
+This project provides a comprehensive toolkit for building and managing data pipelines within Snowflake using Snowpark and Python. By leveraging features such as external data ingestion, automated task management, and CI/CD pipelines, users can streamline their data engineering workflows and enhance their Snowflake experience. Whether you are working on small-scale analysis or large-scale production deployments, this repository provides the resources to optimize and automate key data processes.
+
 
 ![Lab2_1](https://github.com/user-attachments/assets/1602e60d-f05c-4b50-83f5-1e28731e7619)
 ![Lab2_2](https://github.com/user-attachments/assets/294cb8e3-78c7-4be1-8707-fcb81c8967c6)

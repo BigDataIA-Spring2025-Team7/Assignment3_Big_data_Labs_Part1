@@ -10,8 +10,6 @@ Screenshots:
 
 Lab 2:
 https://github.com/ashwin-badamikar/sfguide-data-engineering-with-notebooks.git
-Here’s a brief README format based on your provided text:
-
 ---
 
 # Snowflake Data Engineering Project
@@ -46,12 +44,8 @@ This project demonstrates various techniques for working with Snowflake, Snowpar
 
 Conclusion
 This project provides a comprehensive toolkit for building and managing data pipelines within Snowflake using Snowpark and Python. By leveraging features such as external data ingestion, automated task management, and CI/CD pipelines, users can streamline their data engineering workflows and enhance their Snowflake experience. Whether you are working on small-scale analysis or large-scale production deployments, this repository provides the resources to optimize and automate key data processes.
-
-
-
 ---
 
-This format provides a structured and concise README to quickly inform users about the project, its capabilities, and how to get started. Let me know if you need further modifications!
 ![Lab2_1](https://github.com/user-attachments/assets/1602e60d-f05c-4b50-83f5-1e28731e7619)
 ![Lab2_2](https://github.com/user-attachments/assets/294cb8e3-78c7-4be1-8707-fcb81c8967c6)
 ![Lab2_3](https://github.com/user-attachments/assets/c5df890b-4259-4abb-8ddf-884126191293)

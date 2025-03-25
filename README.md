@@ -59,3 +59,10 @@ This project demonstrates various techniques for working with Snowflake, Snowpar
 ![Screenshot 2025-02-21 143821](https://github.com/user-attachments/assets/5226259a-2d76-4208-8cea-395c46b07919)
 ![Screenshot 2025-02-21 143842](https://github.com/user-attachments/assets/6c5b9c6e-dad6-4cfd-acda-5e2262d8e2fb)
 
+
+## Contributions
+- Vemana Anil Kumar - 33.3%
+- Ashwin Badamikar - 33.3%
+- Madhura Adadande - 33.3%
+  
+WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK

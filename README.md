@@ -54,6 +54,8 @@ This project provides a comprehensive toolkit for building and managing data pip
 
 Lab 3:
 ---
+https://github.com/BigDataIA-Spring2025-Team7/Assignment3_Big_data_Labs_Part1/tree/main/Lab3
+
 # Snowflake Data Engineering Project
 This project demonstrates various techniques for working with Snowflake, Snowpark, and related tools to build efficient data engineering pipelines, automate tasks, and manage Snowflake objects.
 ![Screenshot 2025-02-21 143821](https://github.com/user-attachments/assets/5226259a-2d76-4208-8cea-395c46b07919)

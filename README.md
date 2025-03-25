@@ -17,6 +17,8 @@ Lab 2:
 ---
 https://github.com/ashwin-badamikar/sfguide-data-engineering-with-notebooks.git
 
+# Lab2:
+![Screenshot 2025-02-22 121256](https://github.com/user-attachments/assets/9e0b23a8-5395-4d92-b65a-2b824efd7560)
 
 # Snowflake Data Engineering Project
 
